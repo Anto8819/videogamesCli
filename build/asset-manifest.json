@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5d7deb8.chunk.css",
+    "main.js": "/static/js/main.95c777b3.chunk.js",
+    "main.js.map": "/static/js/main.95c777b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.312698bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.312698bc.js.map",
+    "static/js/2.6d279a93.chunk.js": "/static/js/2.6d279a93.chunk.js",
+    "static/js/2.6d279a93.chunk.js.map": "/static/js/2.6d279a93.chunk.js.map",
+    "static/js/3.cc615351.chunk.js": "/static/js/3.cc615351.chunk.js",
+    "static/js/3.cc615351.chunk.js.map": "/static/js/3.cc615351.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c5d7deb8.chunk.css.map": "/static/css/main.c5d7deb8.chunk.css.map",
+    "static/js/2.6d279a93.chunk.js.LICENSE.txt": "/static/js/2.6d279a93.chunk.js.LICENSE.txt",
+    "static/media/Ryu.4dfeb2d9.gif": "/static/media/Ryu.4dfeb2d9.gif",
+    "static/media/game_gamepad_1486.96473216.png": "/static/media/game_gamepad_1486.96473216.png",
+    "static/media/App.scss": "/static/media/xboxBlack.954420a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.312698bc.js",
+    "static/js/2.6d279a93.chunk.js",
+    "static/css/main.c5d7deb8.chunk.css",
+    "static/js/main.95c777b3.chunk.js"
+  ]
+}
