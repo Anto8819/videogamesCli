@@ -146,10 +146,14 @@ function Pagination() {
           <option key="title" value="">
             ---Filter by Genre---
           </option>
+          <option key='default' value=''>
+              All genres
+            </option>
           {genres.map((ele) => (
             <option key={ele.id} value={ele.name}>
               {ele.name}
             </option>
+            
           ))}
         </select>
         <select className={s.selector} onChange={handleChangeCreated}>
